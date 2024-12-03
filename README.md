@@ -1,0 +1,1 @@
+A webpage project for The Odin Project javascript curriculum done using Webpack.
